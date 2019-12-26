@@ -1,0 +1,13 @@
+Menambahkan Fitur How To Cite OJS 2
+
+Untuk menambahkan fitur How To Cite diperlukan beberapa modifikasi diantaranya :
+
+1. Masuk ke direktori root -> js, Kemudian salin dan timpa file citationSelection.js
+2. Masuk ke direktori root -> pages -> article, kemudian salin dan timpa file ArticleHandler.inc
+3. Masuk ke direktori root -> template -> article, kemudian salin dan timpa article.tpl
+
+Semoga bermanfaat
+
+Dwi Fajar Saputra
+dfsptra@gmail.com  
+085693341215
